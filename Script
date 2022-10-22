@@ -1,5 +1,5 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "Brookhaven Hub by Princelion33#7607", HidePremium = false, SaveConfig = true, ConfigFolder = "Blox Fruits Hub"})
+local Window = OrionLib:MakeWindow({Name = "Brookhaven Hub by Princelion33#7607", HidePremium = false, SaveConfig = true, ConfigFolder = "Brookhaven Hub"})
 OrionLib:MakeNotification({
 	Name = "Discord",
 	Content = "Made by Princelion33#7607",
